@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edsonromeumaier
+- 👋 Hi, I’m @romeumaier
 - 👀 I’m interested in ... developer skills
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
