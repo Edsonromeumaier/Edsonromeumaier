@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @romeumaier
-- 👀 I’m interested in ... developer skills
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I’m <strong>@romeumaier</strong>
+ 
+<b>Entusiasta da programação.</b>
 
-<!---
-Edsonromeumaier/Edsonromeumaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estou na área de front-end ha um ano. Busco minha primeira experiência profissional.
+Disposto a aprender novas ferramentas.
+
