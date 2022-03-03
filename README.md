@@ -2,4 +2,4 @@
  
 <b>Entusiasta da programação.</b>
 
-Estou na área de front-end ha um ano. 
+Analise e desenvolvimento de sistemas &#128218;. 
