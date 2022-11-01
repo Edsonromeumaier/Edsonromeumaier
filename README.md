@@ -1,5 +1,8 @@
- 👋 Hi, I’m <strong>@romeumaier</strong>
+ 👋 Hi!
+ ***
+## I’m <strong>@romeumaier</strong>
  
-<b>Entusiasta da programação.</b>
+#Interested in what technology can do for the world
 
-Analise e desenvolvimento de sistemas &#128218;. 
+ &#128218; Desenvolvimento web
+:arrow_forward:  https://www.linkedin.com/in/edson-romeu-maier/
