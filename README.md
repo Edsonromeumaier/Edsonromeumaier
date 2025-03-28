@@ -1,5 +1,5 @@
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&weight=500&duration=3000&pause=9000&color=F10E14&background=FEF7FF00&width=435&lines=Hello+there!👋+It's+Romeu's+repo.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&weight=500&duration=3000&pause=9000&color=F10E14&background=FEF7FF00&width=435&lines=Hello+there!👋+It's+Romeu+repo.)](https://git.io/typing-svg)
  ## technologies
  <div style="display:inline_block"><br>  
   
